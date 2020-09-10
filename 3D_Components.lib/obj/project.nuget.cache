@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6uIyq1eVbBYKlIqWBJp00s+V8yepNS/CTTbwklAmiUYVEBOEtfJojs/LfkAEoVqo4pyebeONxrCyiyAQ7ozohw==",
+  "success": true,
+  "projectFilePath": "E:\\work\\3D\\CG class\\AltRender\\3D_Components.lib\\3D_Components.lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wille\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\wille\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

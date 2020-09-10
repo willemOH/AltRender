@@ -1,0 +1,66 @@
+C:\Users\wille\OneDrive\Desktop\CG class\unit tests\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\wille\OneDrive\Desktop\CG class\unit tests\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\wille\OneDrive\Desktop\CG class\unit tests\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\wille\OneDrive\Desktop\CG class\unit tests\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.deps.json
+C:\Users\wille\OneDrive\Desktop\CG class\unit tests\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.json
+C:\Users\wille\OneDrive\Desktop\CG class\unit tests\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.dev.json
+C:\Users\wille\OneDrive\Desktop\CG class\unit tests\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.dll
+C:\Users\wille\OneDrive\Desktop\CG class\unit tests\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.pdb
+C:\Users\wille\OneDrive\Desktop\CG class\unit tests\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\wille\OneDrive\Desktop\CG class\unit tests\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\wille\OneDrive\Desktop\CG class\unit tests\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\wille\OneDrive\Desktop\CG class\unit tests\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfo.cs
+C:\Users\wille\OneDrive\Desktop\CG class\unit tests\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CopyComplete
+C:\Users\wille\OneDrive\Desktop\CG class\unit tests\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.dll
+C:\Users\wille\OneDrive\Desktop\CG class\unit tests\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.pdb
+C:\Users\wille\OneDrive\Desktop\CG class\unit tests\UnitTestProject1\bin\Debug\netcoreapp2.1\3D_Components.lib.dll
+C:\Users\wille\OneDrive\Desktop\CG class\unit tests\UnitTestProject1\bin\Debug\netcoreapp2.1\3D_Components.lib.pdb
+C:\Users\wille\OneDrive\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\wille\OneDrive\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\wille\OneDrive\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\wille\OneDrive\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.deps.json
+C:\Users\wille\OneDrive\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.json
+C:\Users\wille\OneDrive\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.dev.json
+C:\Users\wille\OneDrive\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.dll
+C:\Users\wille\OneDrive\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.pdb
+C:\Users\wille\OneDrive\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\3D_Components.lib.dll
+C:\Users\wille\OneDrive\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\3D_Components.lib.pdb
+C:\Users\wille\OneDrive\Desktop\CG class\AltRender\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\wille\OneDrive\Desktop\CG class\AltRender\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\wille\OneDrive\Desktop\CG class\AltRender\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\wille\OneDrive\Desktop\CG class\AltRender\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfo.cs
+C:\Users\wille\OneDrive\Desktop\CG class\AltRender\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CopyComplete
+C:\Users\wille\OneDrive\Desktop\CG class\AltRender\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.dll
+C:\Users\wille\OneDrive\Desktop\CG class\AltRender\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.pdb
+D:\Desktop\CG class\AltRender\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csprojAssemblyReference.cache
+D:\Desktop\CG class\AltRender\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfoInputs.cache
+D:\Desktop\CG class\AltRender\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfo.cs
+D:\Desktop\CG class\AltRender\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.dll
+D:\Desktop\CG class\AltRender\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.pdb
+D:\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.deps.json
+D:\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.json
+D:\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.dev.json
+D:\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.dll
+D:\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.pdb
+D:\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\3D_Components.lib.dll
+D:\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\3D_Components.lib.pdb
+D:\Desktop\CG class\AltRender\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CopyComplete
+E:\Desktop\CG class\AltRender\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csprojAssemblyReference.cache
+E:\Desktop\CG class\AltRender\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfoInputs.cache
+E:\Desktop\CG class\AltRender\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfo.cs
+E:\Desktop\CG class\AltRender\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.dll
+E:\Desktop\CG class\AltRender\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.pdb
+E:\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.deps.json
+E:\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.json
+E:\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.dev.json
+E:\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.dll
+E:\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.pdb
+E:\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\3D_Components.lib.dll
+E:\Desktop\CG class\AltRender\UnitTestProject1\bin\Debug\netcoreapp2.1\3D_Components.lib.pdb
+E:\Desktop\CG class\AltRender\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CopyComplete
