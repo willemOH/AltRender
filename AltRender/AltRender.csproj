@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Render before alias.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\3D_Components.lib\3D_Components.lib.csproj" />
+  </ItemGroup>
+
+</Project>

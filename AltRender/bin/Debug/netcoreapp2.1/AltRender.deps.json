@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "AltRender/1.0.0": {
+        "dependencies": {
+          "3D_Components.lib": "1.0.0"
+        },
+        "runtime": {
+          "AltRender.dll": {}
+        }
+      },
+      "3D_Components.lib/1.0.0": {
+        "runtime": {
+          "3D_Components.lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AltRender/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "3D_Components.lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
