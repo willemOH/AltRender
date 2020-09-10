@@ -1,0 +1,6 @@
+# ignore local backups
+Backup/
+Backup1/
+Backup2/
+#/AltRender.zip
+#/unit tests
